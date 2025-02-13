@@ -1,0 +1,5 @@
+DASH
+TextBlob
+pandas
+matplotlib
+yfinance
