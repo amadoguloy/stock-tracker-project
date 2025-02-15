@@ -15,7 +15,7 @@ app = dash.Dash(__name__)
 # List of Top 20 Stocks by Market Cap (as of recent data)
 top_20_stocks = [
     'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'NVDA', 'BRK-B', 'META', 'V', 'JNJ',
-    'WMT', 'JPM', 'PG', 'UNH', 'HD', 'DIS', 'PYPL', 'VZ', 'NFLX', 'KO'
+    'WMT', 'JPM', 'PG', 'UNH', 'HD', 'DIS', 'PYPL', 'VZ', 'NFLX', 'LCID'
 ]
 
 # Fetch Stock Data
